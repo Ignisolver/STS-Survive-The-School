@@ -3,6 +3,8 @@ Program for pupils or students to help them manage their grades and frequences.
 ## Description
 This is my first python project written in hihg school.
 I need it becouse in my high school some subjects was very boring and in my opinion unusable. Participating this subjects I wanted to do only as much work as needed to pass them. I used to save my time and also participate only anough amount of lessons to have sufficient presence.
+### NOTICE
+In current program version manage grades is unavailable - this feature was implemented in next version which I lost...
 ## Features
 ![obraz](https://user-images.githubusercontent.com/62255841/212272410-c7b00f16-95e8-49a2-a2f4-11306cf4a02e.png)
 ### 1. Show week schedule
